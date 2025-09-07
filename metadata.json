@@ -1,0 +1,5 @@
+{
+  "name": "BananaSplit: Git for Images",
+  "description": "A natural-language version control system for visuals powered by Gemini. Upload an image, apply edits as 'commits', branch into alternate directions, and merge your ideas using the power of Gemini 2.5 Flash Image Preview.",
+  "requestFramePermissions": []
+}
